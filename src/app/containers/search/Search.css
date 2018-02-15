@@ -1,0 +1,15 @@
+.search-wrapper {
+  width: 24em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.search-wrapper .search {
+  width: 100%;
+}
+
+.search-wrapper .category {
+
+}
